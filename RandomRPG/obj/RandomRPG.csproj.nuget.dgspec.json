@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dito\\source\\repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj": {}
+    "C:\\Users\\nikolaich\\Source\\Repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dito\\source\\repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj": {
+    "C:\\Users\\nikolaich\\Source\\Repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dito\\source\\repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj",
+        "projectUniqueName": "C:\\Users\\nikolaich\\Source\\Repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj",
         "projectName": "RandomRPG",
-        "projectPath": "C:\\Users\\dito\\source\\repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj",
-        "packagesPath": "C:\\Users\\dito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dito\\source\\repos\\RandomRPG\\RandomRPG\\obj\\",
+        "projectPath": "C:\\Users\\nikolaich\\Source\\Repos\\RandomRPG\\RandomRPG\\RandomRPG.csproj",
+        "packagesPath": "C:\\Users\\nikolaich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikolaich\\Source\\Repos\\RandomRPG\\RandomRPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nikolaich\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

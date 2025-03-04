@@ -13,9 +13,9 @@ namespace RandomRPG
         //Все функции, которые работают с любыми существами должны использовать этот интерфейс как параметр
         //Бочки, Сундуки итд это тоже существа, но блоки-постройки - нет
         int Health { get; set; }
-        Vector<Int64> Position { get; set; }
-        public void Spawn(Vector<Int64> position);
+        Vector2 Position { get; set; }
+        public void Spawn(Vector2 position);
         public void Delete();
-        public Vector<Int64> GetPosition();
+        public Vector2 GetPosition();
     }
 }
